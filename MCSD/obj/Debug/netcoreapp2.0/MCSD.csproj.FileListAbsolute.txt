@@ -1,0 +1,11 @@
+C:\WEBSYSTEMPROJECTS\MCSD\MCSD\bin\Debug\netcoreapp2.0\MCSD.deps.json
+C:\WEBSYSTEMPROJECTS\MCSD\MCSD\bin\Debug\netcoreapp2.0\MCSD.runtimeconfig.json
+C:\WEBSYSTEMPROJECTS\MCSD\MCSD\bin\Debug\netcoreapp2.0\MCSD.runtimeconfig.dev.json
+C:\WEBSYSTEMPROJECTS\MCSD\MCSD\bin\Debug\netcoreapp2.0\MCSD.dll
+C:\WEBSYSTEMPROJECTS\MCSD\MCSD\bin\Debug\netcoreapp2.0\MCSD.pdb
+C:\WEBSYSTEMPROJECTS\MCSD\MCSD\obj\Debug\netcoreapp2.0\MCSD.csprojResolveAssemblyReference.cache
+C:\WEBSYSTEMPROJECTS\MCSD\MCSD\obj\Debug\netcoreapp2.0\MCSD.csproj.CoreCompileInputs.cache
+C:\WEBSYSTEMPROJECTS\MCSD\MCSD\obj\Debug\netcoreapp2.0\MCSD.AssemblyInfoInputs.cache
+C:\WEBSYSTEMPROJECTS\MCSD\MCSD\obj\Debug\netcoreapp2.0\MCSD.AssemblyInfo.cs
+C:\WEBSYSTEMPROJECTS\MCSD\MCSD\obj\Debug\netcoreapp2.0\MCSD.dll
+C:\WEBSYSTEMPROJECTS\MCSD\MCSD\obj\Debug\netcoreapp2.0\MCSD.pdb
